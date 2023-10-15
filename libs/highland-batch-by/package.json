@@ -1,0 +1,12 @@
+{
+  "name": "@altaroom/highland-batch-by",
+  "version": "0.0.1",
+  "dependencies": {
+    "highland": "^2.13.5"
+  },
+  "type": "commonjs",
+  "main": "./index.cjs",
+  "devDependencies": {
+    "@types/highland": "^2.12.16"
+  }
+}

@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`batchByProp should work: output 1`] = `
+[
+  {
+    "accumulate_pattern": 1,
+    "items": [
+      {
+        "order_id": 1,
+        "sku": "a",
+      },
+      {
+        "order_id": 1,
+        "sku": "b",
+      },
+    ],
+  },
+  {
+    "accumulate_pattern": 2,
+    "items": [
+      {
+        "order_id": 2,
+        "sku": "c",
+      },
+    ],
+  },
+]
+`;
